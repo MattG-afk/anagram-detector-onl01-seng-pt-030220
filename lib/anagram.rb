@@ -7,4 +7,4 @@ class Anagram
   
   def match(words)
     
-    words.select do
+    words.select do |array|
